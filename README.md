@@ -2,7 +2,7 @@
 Olá! Eu sou o Cauê Shishido e sou um estudante do Instituto Federal do Sul de Minas campus Poços de Caldas e adoro tudo de computação
 No Momento estou:
 * Aprendendo Python
-* Desenvolvendo um projeto com @daviddelgado28 chamado SUAE(SUAE - Sistema Unificado de Auxílio aos Estudantes) para ajudar estudantes a aprender informática
+* Desenvolvendo um projeto com @daviddelgado28 e @ArithmosPrtgn chamado SUAE(SUAE - Sistema Unificado de Auxílio aos Estudantes) para ajudar estudantes a aprender informática
 * Tentando criar um aplicativo em Java
   
 Passo o tempo criando histórias e criando jogos no RPG Maker MZ criando jogos aleatórios para passar o tempo
